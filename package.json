@@ -9,6 +9,7 @@
   },
   "author": "",
   "license": "ISC",
+  "homepage": "https://invanz.github.io/chess-game/",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
